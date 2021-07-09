@@ -28,13 +28,13 @@ const Home = () => {
      
     </Nav>
     <Nav>
-      <Nav.Link href="home">Home</Nav.Link>
-      <Nav.Link eventKey={2} href="aboutme">About me
+      <Nav.Link href="/home">Home</Nav.Link>
+      <Nav.Link eventKey={2} href="/aboutme">About me
       </Nav.Link>
-      <Nav.Link href="experience">Experience</Nav.Link>
-      <Nav.Link href="skill">Skill</Nav.Link>
-      <Nav.Link href="projects">Projects</Nav.Link>
-      <Nav.Link href="contact">Contact</Nav.Link>
+      <Nav.Link href="/experience">Experience</Nav.Link>
+      <Nav.Link href="/skill">Skill</Nav.Link>
+      <Nav.Link href="/projects">Projects</Nav.Link>
+      <Nav.Link href="/contact">Contact</Nav.Link>
       <h3><FcSearch/></h3> 
      
     </Nav>
