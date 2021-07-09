@@ -1,0 +1,11 @@
+.bg-img{
+    background-image: url('https://scontent.fdac45-1.fna.fbcdn.net/v/t1.15752-0/p206x206/203497700_124774023062351_3513756586810276065_n.jpg?_nc_cat=107&ccb=1-3&_nc_sid=aee45a&_nc_eui2=AeFRyaHstpWU938nBXEwrhf8MenGLCVrGm8x6cYsJWsaby_2-SpIwnV6wBwEgQ3m93BCWaiVNLBozVjc7QHCDgig&_nc_ohc=Uoi5W0XynjIAX952mHB&_nc_ht=scontent.fdac45-1.fna&oh=7c326be8f6444843a62369c09c5881aa&oe=60ED3774');
+    
+    background-size: 100%;
+    text-align: center;
+    height: 100%;
+}
+.bg-img img{
+    height: 200px;
+    width: 200px;
+}

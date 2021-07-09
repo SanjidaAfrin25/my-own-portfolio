@@ -1,0 +1,28 @@
+.font3{
+    font-family: 'Encode Sans SC', sans-serif;
+    text-align: center;
+    color:brown;
+    
+}
+.bg-color{
+    background-image: url("https://media.istockphoto.com/photos/bright-blue-defocused-blurred-motion-abstract-background-picture-id1047234038?k=6&m=1047234038&s=612x612&w=0&h=O1lP8GIn46sboZL5bnMsznd4A1tRNJ7iXm1MMVh5I5c=");
+    
+    background-size: 100%;
+    text-align: center;
+   
+}
+.bg-color img{
+    height: 200px;
+    width: 400px;
+    
+}
+.black{
+    background-image: url("https://images.pexels.com/videos/3045163/free-video-3045163.jpg?auto=compress&cs=tinysrgb&dpr=1&w=500");
+    background-size: 100%;
+   
+    color:gray;
+}
+.alignment{
+    text-align: justify;
+    margin-top: 40px;
+}

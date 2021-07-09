@@ -1,0 +1,37 @@
+.background{
+   background-image: url("https://unice.pixelstrapthemes.vercel.app/assets/images/agency/testimonial/bg.png");
+    height: 600px;
+    color:ivory
+}
+.background img{
+    height: 200px;
+    width: 400px;
+    margin-left: 40px;
+    margin-top: 100px;
+    cursor:pointer;
+   
+
+}
+
+.background h2{
+   line-height: 150px;
+   
+}
+.bgrnd{
+    background-image: url("https://unice.pixelstrapthemes.vercel.app/assets/images/agency/blog/background.png");
+    height: 700px;
+}
+.bgrnd h2{
+    /* color:rgb(28, 28, 78); */
+    color:#10266b;
+    margin-top: 100px;
+    text-align: center;
+}
+.colorbg{
+    background-color:#10266b;
+   
+}
+.flex{
+    display: flex;
+    margin-left: 200px;
+}
